@@ -1,0 +1,31 @@
+<div class="educacion">
+    <h1>Educación</h1>
+
+    <ul class="ListadoEdu">
+        <li>
+            <div class="data-container">
+                <a href="http://frt.utn.edu.ar/">
+                    <img [src]="miportfolio.direcciones.logoutn" alt="logoutn" class="logoutn"> 
+                </a>
+            </div>
+            <div class="info">
+                <h2>{{miportfolio.educacion.escuela.institucion}}</h2>
+                <h4>{{miportfolio.educacion.escuela.carrera}}</h4>
+                <h4>{{miportfolio.educacion.escuela.temp}}</h4>
+            </div>
+        </li>
+        <li>
+            <div class="data-container">
+                <img [src]="miportfolio.direcciones.logosombrero" alt="sombrero" style="height: 225px;">
+            </div>
+            <div class="info2">
+                <h2>{{miportfolio.educacion.universidad.institucion}}</h2>
+                <h4>{{miportfolio.educacion.universidad.carrera}}</h4>
+                <h4>{{miportfolio.educacion.universidad.temp}}</h4>
+            </div>
+        </li>
+    </ul>
+
+</div>
+
+

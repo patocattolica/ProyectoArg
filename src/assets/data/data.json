@@ -1,0 +1,47 @@
+{
+    "datosPersonales":{
+        "name":"Patricio Cattolica",
+        "posicion":"Desarrollador Full Stack Jr; Estudiante de Ing. En Sistemmas de información"
+    },
+    "direcciones":{
+        "imgprofile":"./assets/Perfil.jpg",
+        "logoutn":"./assets/UTN.png",
+        "logosombrero":"./assets/Sombrero.png",
+        "logocomfye":"/assets/Comfye.png",
+        "logomaleta":"./assets/Maleta.png"
+    },
+    "experiencia":{
+        "trabajo1":{
+            "organizacion":"Comfye - Jornada parcial",
+            "puesto":"Analista de sistemas, Full Stack Developer",
+            "temp":"Feb 2021  Nov 2021",
+            "tiemponeto":"(10 Meses)"
+        }
+    },
+    "educacion":{
+        "escuela":{
+            "institucion":"Universidad Tecnológica Nacional FRT",
+            "carrera":"Ingeniería en sistemas de información",
+            "temp":"2018  Actualidad"   
+        },
+        "universidad":{
+            "institucion":"Instituto Privado Rivadavia",
+            "carrera":"Estudios secundarios",
+            "temp":"2012  2017"
+        }
+    },
+    "skills":{
+            "TE":"Trabajo en equipo",
+            "PA":"Pensamiento analítico",
+            "CO":"Comunicación",
+            "LI":"Liderazgo",
+            "CMA":"Conocimiento de metodologías ágiles",
+            "C":"C",
+            "HC":"HTML/CSS",
+            "AN":"ANGULAR"
+    },
+    "proyectos":{
+        "name":"Portfolio WEB",
+        "desc":"Desarrollé una aplicación WEB la cual es mi Portfolio, en el cual se puede ver mi experiencia, educación, skills y proyectos producidos."
+    }
+}
